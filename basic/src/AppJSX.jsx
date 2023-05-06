@@ -1,6 +1,6 @@
 import "./App.css";
 
-function App() {
+function AppJSX() {
   /**
    * 정리
    * - 리액트에서 컴포넌트를 표시할 때는 대문자로 시작하는 함수로 만들 수 있다. 이 함수는 jsx 를 return 하는데, jsx 문법을 사용해서 어떤 UI 를 표기하는 컴포넌트인지 명시해준다.
@@ -36,4 +36,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppJSX;
