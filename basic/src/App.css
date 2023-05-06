@@ -3,7 +3,6 @@
 }
 
 .profile {
-  position: relative;
   width: 300px;
   text-align: center;
   padding: 1rem;
@@ -13,6 +12,13 @@
   box-shadow: 8px 11px 34px -15px rgba(0, 0, 0, 0.6);
   -webkit-box-shadow: 8px 11px 34px -15px rgba(0, 0, 0, 0.6);
   -moz-box-shadow: 8px 11px 34px -15px rgba(0, 0, 0, 0.6);
+}
+
+.avatar {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: auto;
 }
 
 .photo {
