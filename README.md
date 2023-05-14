@@ -14,6 +14,7 @@
    - delete `nodemodules, yarn.lock` files
 
 1. react 파일 변경시 적용되지 않는 이슈 (eslint 이슈)
+   - `yarn create react-app __PROJECT_NAME__`
    - `yarn add -D eslint-config-react-app`
    - `yarn add eslint eslint-config-react-app --dev`
    - make file `yarrnrc.yml`
